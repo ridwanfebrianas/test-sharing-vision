@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"test-sharing-vision/router"
+	"test-sharing-vision/go-server/router"
 )
 
 func main() {

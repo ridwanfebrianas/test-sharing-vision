@@ -1,7 +1,7 @@
 package router
 
 import (
-	"test-sharing-vision/middleware"
+	"test-sharing-vision/go-server/middleware"
 
 	"github.com/gorilla/mux"
 )
