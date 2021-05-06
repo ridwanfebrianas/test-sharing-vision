@@ -10,8 +10,7 @@ import (
 	"net/http"
 	"os"
 	"strconv"
-
-	"github.com/ridwanfebrianas/test-sharing-vision/go-server/models"
+	"test-sharing-vision/models"
 
 	// mysql driver
 	_ "github.com/go-sql-driver/mysql"
